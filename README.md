@@ -1,6 +1,6 @@
-# Brain-Age-Prediction-and-Age-Conditioned-Template-Generation
+# Brain Age Prediction and Age Conditioned Template Generation
 
-This repository contain the codes associated with the MIDL 2021 submission: [Unifying Brain Age Prediction and Age-Conditioned Template
+This repository contains the codes associated with the MIDL 2021 submission: [Unifying Brain Age Prediction and Age-Conditioned Template
 Generation with a Deterministic Autoencoder](https://openreview.net/forum?id=9ClUQ2ELJap)
 
 The repository contains 3 folders:
