@@ -16,3 +16,16 @@ The main database used in the paper is not open source, however we used the open
 
 The code uses the common python (version 3.6.3 was used) packages numpy and pandas, as well as nibabel to read nifti images.
 The Tensorflow library is used for the model development: tensorflow-gpu version 2.3.0
+
+## Citation
+
+If you use this work, please cite:
+
+@inproceedings{
+mouches2021unifying,
+title={Unifying Brain Age Prediction and Age-Conditioned Template Generation with a Deterministic Autoencoder},
+author={Pauline Mouches and Matthias Wilms and Deepthi Rajashekar and Sonke Langner and Nils Forkert},
+booktitle={Medical Imaging with Deep Learning},
+year={2021},
+url={https://openreview.net/forum?id=9ClUQ2ELJap}
+}
